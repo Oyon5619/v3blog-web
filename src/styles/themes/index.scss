@@ -1,0 +1,9 @@
+@import './vars.scss';
+
+// 遍历主题
+@mixin themeify {
+  @each $theme-name, $theme-map in $themes {
+    $theme-map: $theme-map !global;
+    
+  }
+}

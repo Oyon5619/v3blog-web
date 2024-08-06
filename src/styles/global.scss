@@ -1,0 +1,22 @@
+$bgColor: #0f9d9d;
+$bgColorDeep: #096c6c;
+$fontSize: 16px;
+$pageBgColor: #f0efef;
+$shadowColor: #E4E7ED;
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: 'iconfont';  /* Project id 4616096 */
+  src: 
+       url('//at.alicdn.com/t/c/font_4616096_6tleeo3867x.woff2?t=1720806331383') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4616096_6tleeo3867x.woff?t=1720806331383') format('woff'),
+       url('//at.alicdn.com/t/c/font_4616096_6tleeo3867x.ttf?t=1720806331383') format('truetype');
+}
